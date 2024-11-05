@@ -1,3 +1,4 @@
 export const angleCalculator = (turns) => {
-  return
+  const turn = 360
+  return turn * turns
 }
